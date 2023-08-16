@@ -205,6 +205,13 @@ h6 {
   color: #149ddd;
 }
 
+
+/* Logos-skills */
+.skill-logo{
+  width: 5rem;
+  height: 5rem;
+}
+
 /* Mobile Navigation */
 .mobile-nav-toggle {
   position: fixed;
@@ -433,7 +440,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 100px;
   display: block;
   background: none;
   border-radius: 0;
