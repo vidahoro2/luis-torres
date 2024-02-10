@@ -135,6 +135,7 @@ h6 {
 .container-fluid {
   padding-left: 30px;
   padding-right: 30px;
+  text-align: justify;
 }
 
 @media (max-width: 1199px) {
